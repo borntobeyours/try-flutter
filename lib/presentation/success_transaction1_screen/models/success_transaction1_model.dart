@@ -1,0 +1,1 @@
+class SuccessTransaction1Model {}

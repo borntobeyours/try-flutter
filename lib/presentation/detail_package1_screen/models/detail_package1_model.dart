@@ -1,0 +1,1 @@
+class DetailPackage1Model {}

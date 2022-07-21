@@ -1,0 +1,1 @@
+class Listvaadintimebac3ItemModel {}

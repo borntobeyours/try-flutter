@@ -1,0 +1,1 @@
+class Listtelpon2ItemModel {}
