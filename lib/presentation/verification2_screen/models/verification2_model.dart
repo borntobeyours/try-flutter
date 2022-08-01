@@ -1,0 +1,1 @@
+class Verification2Model {}

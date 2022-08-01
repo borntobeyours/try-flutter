@@ -1,0 +1,1 @@
+class Listinternetomg3ItemModel {}

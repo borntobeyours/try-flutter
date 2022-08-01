@@ -1,0 +1,1 @@
+class Listinternet1ItemModel {}
